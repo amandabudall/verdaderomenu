@@ -11,5 +11,6 @@ body {
 header {
     height: 100vh;
     width: 10vw;
-    background-image: s.png;
+    background-image: url(https://images.pexels.com/photos/594233/pexels-photo-594233.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) ;
+    background-size: cover;
 }
